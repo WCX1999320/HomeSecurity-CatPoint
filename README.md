@@ -1,8 +1,9 @@
 # UdaSecurity
 
 # Introduction
-A tool that simulates a home security application. In this application you can add, delete, enable and disable sensor input, read the image from the camera, and enable and disable alarm accordingly. It was developed with Java Swing and tested with JUnit 5 on Ubuntu 20.04. It implements the following requirements:
+A tool that simulates a home security application. In this application you can add, delete, enable and disable sensor input, read the image from the camera, and enable and disable alarm accordingly. It was developed with Java Swing and tested with JUnit.
 
+# Application Requirements:
 1. If alarm is armed *and* a sensor becomes activated, put the system into pending alarm status.
 2. If alarm is armed *and* a sensor becomes activated *and* the system is already pending alarm, set the alarm status to alarm.
 3. If pending alarm *and* all sensors are inactive, return to no alarm state.
