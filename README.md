@@ -3,6 +3,17 @@
 # Introduction
 A tool that simulates a home security application. In this application you can add, delete, enable and disable sensor input, read the image from the camera, and enable and disable alarm accordingly. It was developed with Java Swing and tested with JUnit.
 
+1.Splited the parent project into Security and Image two modules and created module descriptors for them.
+
+2.Wrote Unit Tests for each application requirements and provided full coverage of all methods.
+
+3.Connected project to the AWS Image Recognition Library.
+
+
+# Tech Stack
+
+Mockito + AWS(Amazon Rekognition) + Java Swing + Java Awt + Gson + Unit Test 
+
 # Application Requirements:
 1. If alarm is armed *and* a sensor becomes activated, put the system into pending alarm status.
 2. If alarm is armed *and* a sensor becomes activated *and* the system is already pending alarm, set the alarm status to alarm.
