@@ -1,4 +1,4 @@
-# UdaSecurity
+# HomeSecurity-CatPoint
 
 # Introduction
 A tool that simulates a home security application. In this application you can add, delete, enable and disable sensor input, read the image from the camera, and enable and disable alarm accordingly. It was developed with Java Swing and tested with JUnit.
