@@ -5,7 +5,7 @@ A tool that simulates a home security application. In this application you can a
 
 1.Splited the parent project into Security and Image two modules and created module descriptors for them.
 
-2.Wrote Unit Tests for each application requirements and provided full coverage of all methods.
+2.Used Mockito API to develop unit tests for each application requirements and provided full coverage of all methods.
 
 3.Connected project to the AWS Image Recognition Library.
 
