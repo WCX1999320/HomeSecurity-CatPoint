@@ -29,3 +29,6 @@ Mockito + AWS(Amazon Rekognition) + Java Swing + Java Awt + Gson + Unit Test
 
 # Demo of this project:
 
+![image](https://user-images.githubusercontent.com/90006503/169747561-16c70594-3bc4-4aff-84a3-30f8f9c5e105.png)
+
+![image](https://user-images.githubusercontent.com/90006503/169747577-47595c9f-512d-460d-9809-c1de76e3fa84.png)
