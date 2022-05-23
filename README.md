@@ -26,3 +26,6 @@ Mockito + AWS(Amazon Rekognition) + Java Swing + Java Awt + Gson + Unit Test
 9. If the system is disarmed, set the status to no alarm.
 10. If the system is armed, reset all sensors to inactive.
 11. If the system is armed-home *while* the camera shows a cat, set the alarm status to alarm.
+
+# Demo of this project:
+
